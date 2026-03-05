@@ -1,16 +1,25 @@
-## Hi there 👋
+# Djellali Mohamed
+**Full-Stack Software Engineer**
 
-<!--
-**djellali-mohamed/djellali-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Technical Focus
+I specialize in building scalable web applications and high-performance backend systems. My approach is centered on clean architecture, efficient data models, and rapid, production-ready delivery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Stack
+- **Languages:** JavaScript (ES6+), TypeScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Python, FastAPI, Node.js, Express
+- **Database:** PostgreSQL, Redis, Supabase
+- **Tools:** Docker, GitHub Actions, Git, Vercel
+
+---
+
+### Featured Systems
+- **Retail POS Architecture:** A complete inventory and sales management system with barcode integration and real-time analytics.
+- **Interactive EdTech Platform:** A learning management system featuring progress tracking and automated curriculum delivery.
+- **Market Intelligence Scraper:** An automated lead generation tool (DevHunt) surfacing opportunities from high-signal platforms.
+
+### Connect
+- [LinkedIn](https://www.linkedin.com/in/mohamed-djellali-b490753b5)
+- [Email](mailto:mohameddjellali356@gmail.com)
